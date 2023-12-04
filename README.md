@@ -1,5 +1,3 @@
-# Voici Font Awesome Pro gratuitement
+# Here is fontawesome pro but free
 
-Ajouté juste ```<link href="https://supernatnat11.github.io/fontawesome/Font%20Awesome%20v6.2.0/css/   " rel="stylesheet">```
-                                                                                                     ^^^^
-                                                                                          Suivez la documentation <a href="https://fontawesome.com/docs/web/setup/host-yourself/webfonts">ici</a>
+go [here](sarxzer.xyz/projects/fa-pro) to know how to use it
